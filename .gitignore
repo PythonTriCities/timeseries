@@ -1,5 +1,9 @@
-# This app
-data/
+# Stuff for this app
+# Don't want to keep the data in here.
+data/*
+
+# exception to the rule
+!data/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
